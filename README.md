@@ -33,8 +33,10 @@ git clone https://github.com/ekelen/tarot-api.git
 ```sh
 cd tarot-api
 
+cd api
+
 yarn install
 #or npm install
 
-yarn run dev
+yarn index.js
 ```
