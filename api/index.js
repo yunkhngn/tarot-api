@@ -9,9 +9,15 @@ const databasePath = path.join(__dirname, 'database.json')
 const data = fs.readFileSync(databasePath)
 const database = JSON.parse(data)
 
+console.log(databasePath)
+
 app.get('/api', (req, res) => {
   const response = { status: "Successfully deploying API" };
   res.send(response);
+});
+
+app.get('/api/author', (req, res) => {
+  res.send({ author: "@yun.khngn", date_created: "15/5/2023" });
 });
 
 // Trả về tất cả các lá bài
