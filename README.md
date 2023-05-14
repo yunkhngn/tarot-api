@@ -1,8 +1,8 @@
 # Tarot API 🔮
 
-> Project is currently under development
+> Project is under development, currently working right now!
 
-Tarot API provides information parsed from AE Waite's The Pictorial Key to the Tarot. This was created using ExpressJS and Nodejs
+Tarot API provides information parsed from AE Waite's The Pictorial Key to the Tarot. This was created using ExpressJS and Nodejs.
 
 *Author: @yunkhngn*
 
@@ -21,7 +21,31 @@ fetch("https://tarotapi.vercel.app/api/")
   });
 ```
 
-### Local development
+## Documentation
+
+| GET path                      | Result                                  | Params                                                                                                          |
+| :---------------------------- | --------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
+| `/api/` or `/api/cards` | return all cards                        |                                                                                                                 |
+| `/api/cards/:name`   | return card with specified `name` | `'/the-magician'`,`'/the-fool'`... |
+| `/api/cards/:name/:search/`        | search fields of one cards                        | `/the-magician/desc`                                                              |
+| `/api/random`        | get 3 random card                     |                                                                                  |
+
+**JSON format:**
+```json
+{
+  "type":"Type majors or minors",
+  "slug":"Slug",
+  "name_short":"Short name",
+  "name":"Name",
+  "value":"Card index (string)",
+  "value_int": "Card index (number)",
+  "meaning_up": "Meaning up.",
+  "meaning_rev": "Meaning reverse.",
+  "desc": "Descriptions"
+}
+```
+
+## Local development
 
 1. Clone this repository and install dependencies locally.
 
@@ -38,5 +62,5 @@ cd api
 yarn install
 #or npm install
 
-yarn index.js
+node index.js
 ```
