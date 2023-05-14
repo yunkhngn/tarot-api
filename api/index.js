@@ -3,7 +3,7 @@ const res = require('express/lib/response');
 const app = express();
 const fs =require('fs')
 
-const data = fs.readFileSync('database.json')
+const data = fs.readFileSync('./database.json')
 const database = JSON.parse(data)
 
 app.get('/api', (req, res) => {
