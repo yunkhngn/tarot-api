@@ -35,5 +35,6 @@ cd tarot-api
 
 yarn install
 #or npm install
+
 yarn run dev
 ```
