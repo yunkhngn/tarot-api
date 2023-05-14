@@ -3,7 +3,7 @@ const res = require('express/lib/response');
 const app = express();
 const fs =require('fs')
 
-const databasePath = process.env.DATABASE_PATH || './database.json'
+const databasePath = './database.json'
 
 const data = fs.readFileSync(databasePath)
 const database = JSON.parse(data)
