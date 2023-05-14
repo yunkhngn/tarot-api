@@ -9,7 +9,7 @@ Tarot API provides information parsed from AE Waite's The Pictorial Key to the T
 ## Quick start
 
 ```javascript
-fetch("https://tarot-api.vercel.app/api/")
+fetch("https://tarotapi.vercel.app/api/")
   .then(function (response) {
     return response.json();
   })
