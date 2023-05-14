@@ -3,6 +3,7 @@
   "cards": [
     {
       "type": "major",
+      "slug": "the-magician",
       "name_short": "ar01",
       "name": "The Magician",
       "value": "1",
@@ -13,6 +14,7 @@
     },
     {
       "type": "major",
+      "slug": "the-high-priestess",
       "name_short": "ar02",
       "name": "The High Priestess",
       "value": "2",
@@ -23,6 +25,7 @@
     },
     {
       "type": "major",
+      "slug": "the-empress",
       "name_short": "ar03",
       "name": "The Empress",
       "value": "3",
@@ -33,6 +36,7 @@
     },
     {
       "type": "major",
+      "slug": "the-emperor",
       "name_short": "ar04",
       "name": "The Emperor",
       "value": "4",
@@ -43,6 +47,7 @@
     },
     {
       "type": "major",
+      "slug": "the-hierophant",
       "name_short": "ar05",
       "name": "The Hierophant",
       "value": "5",
@@ -53,6 +58,7 @@
     },
     {
       "type": "major",
+      "slug": "the-lovers",
       "name_short": "ar06",
       "name": "The Lovers",
       "value": "6",
@@ -63,6 +69,7 @@
     },
     {
       "type": "major",
+      "slug": "the-chariot",
       "name_short": "ar07",
       "name": "The Chariot",
       "value": "7",
@@ -73,6 +80,7 @@
     },
     {
       "type": "major",
+      "slug": "strength",
       "name_short": "ar08",
       "name": "Fortitude",
       "value": "8",
@@ -83,6 +91,7 @@
     },
     {
       "type": "major",
+      "slug": "the-hermit",
       "name_short": "ar09",
       "name": "The Hermit",
       "value": "9",
@@ -93,6 +102,7 @@
     },
     {
       "type": "major",
+      "slug": "wheel-of-fortune",
       "name_short": "ar10",
       "name": "Wheel Of Fortune",
       "value": "10",
@@ -103,6 +113,7 @@
     },
     {
       "type": "major",
+      "slug": "justice",
       "name_short": "ar11",
       "name": "Justice",
       "value": "11",
@@ -113,6 +124,7 @@
     },
     {
       "type": "major",
+      "slug": "the-hanged-man",
       "name_short": "ar12",
       "name": "The Hanged Man",
       "value": "12",
@@ -123,6 +135,7 @@
     },
     {
       "type": "major",
+      "slug": "death",
       "name_short": "ar13",
       "name": "Death",
       "value": "13",
@@ -133,6 +146,7 @@
     },
     {
       "type": "major",
+      "slug": "temperance",
       "name_short": "ar14",
       "name": "Temperance",
       "value": "14",
@@ -143,6 +157,7 @@
     },
     {
       "type": "major",
+      "slug": "the-devil",
       "name_short": "ar15",
       "name": "The Devil",
       "value": "15",
@@ -153,6 +168,7 @@
     },
     {
       "type": "major",
+      "slug": "the-tower",
       "name_short": "ar16",
       "name": "The Tower",
       "value": "16",
@@ -163,6 +179,7 @@
     },
     {
       "type": "major",
+      "slug": "the-star",
       "name_short": "ar17",
       "name": "The Star",
       "value": "17",
@@ -173,6 +190,7 @@
     },
     {
       "type": "major",
+      "slug": "the-moon",
       "name_short": "ar18",
       "name": "The Moon",
       "value": "18",
@@ -183,6 +201,7 @@
     },
     {
       "type": "major",
+      "slug": "the-sun",
       "name_short": "ar19",
       "name": "The Sun",
       "value": "19",
@@ -193,6 +212,7 @@
     },
     {
       "type": "major",
+      "slug": "the-last-judgment",
       "name_short": "ar20",
       "name": "The Last Judgment",
       "value": "20",
@@ -203,6 +223,7 @@
     },
     {
       "type": "major",
+      "slug": "the-fool",
       "name_short": "ar00",
       "name": "The Fool",
       "value": "ZERO",
@@ -213,6 +234,7 @@
     },
     {
       "type": "major",
+      "slug": "the-world",
       "name_short": "ar21",
       "name": "The World",
       "value": "21",
@@ -223,6 +245,7 @@
     },
     {
       "name": "Page of Wands",
+      "slug": "page-of-wards",
       "name_short": "wapa",
       "value": "page",
       "value_int": 11,
@@ -234,6 +257,7 @@
     },
     {
       "name": "Knight of Wands",
+      "slug": "knight-of-wards",
       "name_short": "wakn",
       "value": "knight",
       "value_int": 12,
@@ -245,6 +269,7 @@
     },
     {
       "name": "Queen of Wands",
+      "slug": "queen-of-wards",
       "name_short": "waqu",
       "value": "queen",
       "value_int": 13,
@@ -256,6 +281,7 @@
     },
     {
       "name": "King of Wands",
+      "slug": "king-of-wards",
       "name_short": "waki",
       "value": "king",
       "value_int": 14,
@@ -267,6 +293,7 @@
     },
     {
       "name": "Ace of Wands",
+      "slug": "ace-of-wards",
       "name_short": "waac",
       "value": "ace",
       "value_int": 1,
@@ -278,6 +305,7 @@
     },
     {
       "name": "Two of Wands",
+      "slug": "two-of-wards",
       "name_short": "wa02",
       "value": "two",
       "value_int": 2,
@@ -289,6 +317,7 @@
     },
     {
       "name": "Three of Wands",
+      "slug": "three-of-wards",
       "name_short": "wa03",
       "value": "three",
       "value_int": 3,
@@ -300,6 +329,7 @@
     },
     {
       "name": "Four of Wands",
+      "slug": "four-of-wards",
       "name_short": "wa04",
       "value": "four",
       "value_int": 4,
@@ -311,6 +341,7 @@
     },
     {
       "name": "Five of Wands",
+      "slug": "five-of-wards",
       "name_short": "wa05",
       "value": "five",
       "value_int": 5,
@@ -322,6 +353,7 @@
     },
     {
       "name": "Six of Wands",
+      "slug": "six-of-wards",
       "name_short": "wa06",
       "value": "six",
       "value_int": 6,
@@ -333,6 +365,7 @@
     },
     {
       "name": "Seven of Wands",
+      "slug": "seven-of-wards",
       "name_short": "wa07",
       "value": "seven",
       "value_int": 7,
@@ -344,6 +377,7 @@
     },
     {
       "name": "Eight of Wands",
+      "slug": "eight-of-wards",
       "name_short": "wa08",
       "value": "eight",
       "value_int": 8,
@@ -355,6 +389,7 @@
     },
     {
       "name": "Nine of Wands",
+      "slug": "nine-of-wards",
       "name_short": "wa09",
       "value": "nine",
       "value_int": 9,
@@ -366,6 +401,7 @@
     },
     {
       "name": "Ten of Wands",
+      "slug": "ten-of-wards",
       "name_short": "wa10",
       "value": "ten",
       "value_int": 10,
@@ -377,6 +413,7 @@
     },
     {
       "name": "Page of Cups",
+      "slug": "page-of-cups",
       "name_short": "cupa",
       "value": "page",
       "value_int": 11,
@@ -388,6 +425,7 @@
     },
     {
       "name": "Knight of Cups",
+      "slug": "knight-of-cups",
       "name_short": "cukn",
       "value": "knight",
       "value_int": 12,
@@ -399,6 +437,7 @@
     },
     {
       "name": "Queen of Cups",
+      "slug": "queen-of-cups",
       "name_short": "cuqu",
       "value": "queen",
       "value_int": 13,
@@ -410,6 +449,7 @@
     },
     {
       "name": "King of Cups",
+      "slug": "king-of-cups",
       "name_short": "cuki",
       "value": "king",
       "value_int": 14,
@@ -421,6 +461,7 @@
     },
     {
       "name": "Ace of Cups",
+      "slug": "ace-of-cups",
       "name_short": "cuac",
       "value": "ace",
       "value_int": 1,
@@ -432,6 +473,7 @@
     },
     {
       "name": "Two of Cups",
+      "slug": "two-of-cups",
       "name_short": "cu02",
       "value": "two",
       "value_int": 2,
@@ -443,6 +485,7 @@
     },
     {
       "name": "Three of Cups",
+      "slug": "three-of-cups",
       "name_short": "cu03",
       "value": "three",
       "value_int": 3,
@@ -454,6 +497,7 @@
     },
     {
       "name": "Four of Cups",
+      "slug": "four-of-cups",
       "name_short": "cu04",
       "value": "four",
       "value_int": 4,
@@ -465,6 +509,7 @@
     },
     {
       "name": "Five of Cups",
+      "slug": "five-of-cups",
       "name_short": "cu05",
       "value": "five",
       "value_int": 5,
@@ -476,6 +521,7 @@
     },
     {
       "name": "Six of Cups",
+      "slug": "six-of-cups",
       "name_short": "cu06",
       "value": "six",
       "value_int": 6,
@@ -487,6 +533,7 @@
     },
     {
       "name": "Seven of Cups",
+      "slug": "seven-of-cups",
       "name_short": "cu07",
       "value": "seven",
       "value_int": 7,
@@ -498,6 +545,7 @@
     },
     {
       "name": "Eight of Cups",
+      "slug": "eight-of-cups",
       "name_short": "cu08",
       "value": "eight",
       "value_int": 8,
@@ -509,6 +557,7 @@
     },
     {
       "name": "Nine of Cups",
+      "slug": "nine-of-cups",
       "name_short": "cu09",
       "value": "nine",
       "value_int": 9,
@@ -520,6 +569,7 @@
     },
     {
       "name": "Ten of Cups",
+      "slug": "ten-of-cups",
       "name_short": "cu10",
       "value": "ten",
       "value_int": 10,
@@ -531,6 +581,7 @@
     },
     {
       "name": "Page of Pentacles",
+      "slug": "page-of-pentacles",
       "name_short": "pepa",
       "value": "page",
       "value_int": 11,
@@ -542,6 +593,7 @@
     },
     {
       "name": "Knight of Pentacles",
+      "slug": "knight-of-pentacles",
       "name_short": "pekn",
       "value": "knight",
       "value_int": 12,
@@ -553,6 +605,7 @@
     },
     {
       "name": "Queen of Pentacles",
+      "slug": "queen-of-pentacles",
       "name_short": "pequ",
       "value": "queen",
       "value_int": 13,
@@ -564,6 +617,7 @@
     },
     {
       "name": "King of Pentacles",
+      "slug": "king-of-pentacles",
       "name_short": "peki",
       "value": "king",
       "value_int": 14,
@@ -575,6 +629,7 @@
     },
     {
       "name": "Ace of Pentacles",
+      "slug": "ace-of-pentacles",
       "name_short": "peac",
       "value": "ace",
       "value_int": 1,
@@ -586,6 +641,7 @@
     },
     {
       "name": "Two of Pentacles",
+      "slug": "two-of-pentacles",
       "name_short": "pe02",
       "value": "two",
       "value_int": 2,
@@ -597,6 +653,7 @@
     },
     {
       "name": "Three of Pentacles",
+      "slug": "three-of-pentacles",
       "name_short": "pe03",
       "value": "three",
       "value_int": 3,
@@ -608,6 +665,7 @@
     },
     {
       "name": "Four of Pentacles",
+      "slug": "four-of-pentacles",
       "name_short": "pe04",
       "value": "four",
       "value_int": 4,
@@ -619,6 +677,7 @@
     },
     {
       "name": "Five of Pentacles",
+      "slug": "five-of-pentacles",
       "name_short": "pe05",
       "value": "five",
       "value_int": 5,
@@ -630,6 +689,7 @@
     },
     {
       "name": "Six of Pentacles",
+      "slug": "six-of-pentacles",
       "name_short": "pe06",
       "value": "six",
       "value_int": 6,
@@ -641,6 +701,7 @@
     },
     {
       "name": "Seven of Pentacles",
+      "slug": "seven-of-pentacles",
       "name_short": "pe07",
       "value": "seven",
       "value_int": 7,
@@ -652,6 +713,7 @@
     },
     {
       "name": "Eight of Pentacles",
+      "slug": "eight-of-pentacles",
       "name_short": "pe08",
       "value": "eight",
       "value_int": 8,
@@ -663,6 +725,7 @@
     },
     {
       "name": "Nine of Pentacles",
+      "slug": "nine-of-pentacles",
       "name_short": "pe09",
       "value": "nine",
       "value_int": 9,
@@ -674,6 +737,7 @@
     },
     {
       "name": "Ten of Pentacles",
+      "slug": "ten-of-pentacles",
       "name_short": "pe10",
       "value": "ten",
       "value_int": 10,
@@ -685,6 +749,7 @@
     },
     {
       "name": "Page of Swords",
+      "slug": "page-of-swords",
       "name_short": "swpa",
       "value": "page",
       "value_int": 11,
@@ -696,6 +761,7 @@
     },
     {
       "name": "Knight of Swords",
+      "slug": "knight-of-swords",
       "name_short": "swkn",
       "value": "knight",
       "value_int": 12,
@@ -707,6 +773,7 @@
     },
     {
       "name": "Queen of Swords",
+      "slug": "queen-of-swords",
       "name_short": "swqu",
       "value": "queen",
       "value_int": 13,
@@ -718,6 +785,7 @@
     },
     {
       "name": "King of Swords",
+      "slug": "king-of-swords",
       "name_short": "swki",
       "value": "king",
       "value_int": 14,
@@ -729,6 +797,7 @@
     },
     {
       "name": "Ace of Swords",
+      "slug": "ace-of-swords",
       "name_short": "swac",
       "value": "ace",
       "value_int": 1,
@@ -740,6 +809,7 @@
     },
     {
       "name": "Two of Swords",
+      "slug": "two-of-swords",
       "name_short": "sw02",
       "value": "two",
       "value_int": 2,
@@ -751,6 +821,7 @@
     },
     {
       "name": "Three of Swords",
+      "slug": "three-of-swords",
       "name_short": "sw03",
       "value": "three",
       "value_int": 3,
@@ -762,6 +833,7 @@
     },
     {
       "name": "Four of Swords",
+      "slug": "four-of-swords",
       "name_short": "sw04",
       "value": "four",
       "value_int": 4,
@@ -773,6 +845,7 @@
     },
     {
       "name": "Five of Swords",
+      "slug": "five-of-swords",
       "name_short": "sw05",
       "value": "five",
       "value_int": 5,
@@ -784,6 +857,7 @@
     },
     {
       "name": "Six of Swords",
+      "slug": "six-of-swords",
       "name_short": "sw06",
       "value": "six",
       "value_int": 6,
@@ -795,6 +869,7 @@
     },
     {
       "name": "Seven of Swords",
+      "slug": "seven-of-swords",
       "name_short": "sw07",
       "value": "seven",
       "value_int": 7,
@@ -806,6 +881,7 @@
     },
     {
       "name": "Eight of Swords",
+      "slug": "eight-of-swords",
       "name_short": "sw08",
       "value": "eight",
       "value_int": 8,
@@ -817,6 +893,7 @@
     },
     {
       "name": "Nine of Swords",
+      "slug": "nine-of-swords",
       "name_short": "sw09",
       "value": "nine",
       "value_int": 9,
@@ -828,6 +905,7 @@
     },
     {
       "name": "Ten of Swords",
+      "slug": "ten-of-swords",
       "name_short": "sw10",
       "value": "ten",
       "value_int": 10,
