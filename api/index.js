@@ -2,8 +2,9 @@ const express = require('express');
 const res = require('express/lib/response');
 const app = express();
 
-app.get('/api/hello', (req, res) => {
-  const response = { name: "Khoaa" };
+
+app.get('/api', (req, res) => {
+  const response = { status: "Successfully deploying API" };
   res.send(response);
 });
 
