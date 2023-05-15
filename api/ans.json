@@ -1,13 +1,209 @@
 {
-    "total": 50,
-    "ans":[
-        {
-            "index": "1",
-            "answer": "A"
-        },
-        {
-            "index": "2",
-            "answer": "B"
-        }
-    ]
+  "total": 50,
+  "ans": [
+    {
+      "index": "1",
+      "answer": "Không."
+    },
+    {
+      "index": "2",
+      "answer": "Có!"
+    },
+    {
+      "index": "3",
+      "answer": "Tin vào trực giác của mình."
+    },
+    {
+      "index": "4",
+      "answer": "Câu trả lời nằm ở ngay trước mắt."
+    },
+    {
+      "index": "5",
+      "answer": "Cẩn thận với quyết định của mình."
+    },
+    {
+      "index": "6",
+      "answer": "Không nên làm gì ngay lúc này!"
+    },
+    {
+      "index": "7",
+      "answer": "Có thể."
+    },
+    {
+      "index": "7",
+      "answer": "Có lẽ là vậy."
+    },
+    {
+      "index": "8",
+      "answer": "Điều đó phụ thuộc vào bạn."
+    },
+    {
+      "index": "9",
+      "answer": "Không nên.."
+    },
+    {
+      "index": "10",
+      "answer": "Hãy thử một lần nữa."
+    },
+    {
+      "index": "11",
+      "answer": "Đi ăn gì đó đi!"
+    },
+    {
+      "index": "12",
+      "answer": "Hãy suy nghĩ kĩ trước khi đưa ra quyết định."
+    },
+    {
+      "index": "13",
+      "answer": "Không nên hy vọng quá nhiều."
+    },
+    {
+      "index": "14",
+      "answer": "Tất nhiên là có."
+    },
+    {
+      "index": "15",
+      "answer": "Hãy bình tĩnh và suy nghĩ thật kỹ."
+    },
+    {
+      "index": "16",
+      "answer": "Không nên nghĩ về nó ngay lúc này."
+    },
+    {
+      "index": "17",
+      "answer": "Có một khả năng nhỏ."
+    },
+    {
+      "index": "18",
+      "answer": "Tất nhiên là không."
+    },
+    {
+      "index": "19",
+      "answer": "Đi pha cốc nước chanh đã!"
+    },
+    {
+      "index": "20",
+      "answer": "Hành động ngay và luôn."
+    },
+    {
+      "index": "21",
+      "answer": "Suy nghĩ kĩ."
+    },
+    {
+      "index": "22",
+      "answer": "Cái này phải xem tarot."
+    },
+    {
+      "index": "23",
+      "answer": "Quyết địh đúng đắn."
+    },
+    {
+      "index": "24",
+      "answer": "Bỏ cuộc."
+    },
+    {
+      "index": "25",
+      "answer": "Tiếp tục cố gắng sẽ được đền đáp."
+    },
+    {
+      "index": "26",
+      "answer": "Đừng nên cố quá nhiều, sẽ thiệt về mình."
+    },
+    {
+      "index": "27",
+      "answer": "Vũ trụ bảo OK!"
+    },
+    {
+      "index": "28",
+      "answer": "Có khả năng."
+    },
+    {
+      "index": "29",
+      "answer": "Tin vào khả năng của bạn."
+    },
+    {
+      "index": "30",
+      "answer": "Tự lượng sức mình."
+    },
+    {
+      "index": "31",
+      "answer": "Cố gắng nhiều hơn nữa."
+    },
+    {
+      "index": "32",
+      "answer": "Không hề vô ích"
+    },
+    {
+      "index": "33",
+      "answer": "Cảm thấy mình có đủ sức không?"
+    },
+    {
+      "index": "34",
+      "answer": "Một là làm, hai là làm!"
+    },
+    {
+      "index": "35",
+      "answer": "Bỏ thôi, đừng đeo bám mãi!"
+    },
+    {
+      "index": "36",
+      "answer": "Không tốt cho mình."
+    },
+    {
+      "index": "37",
+      "answer": "Điều gì đến sẽ đến."
+    },
+    {
+      "index": "38",
+      "answer": "Có thể sẽ gặp trắc trở."
+    },
+    {
+      "index": "39",
+      "answer": "Khó khăn trước mắt."
+    },
+    {
+      "index": "40",
+      "answer": "Ta có nên? Có!"
+    },
+    {
+      "index": "41",
+      "answer": "Các cụ bảo không nên cố quá rồi quá cố."
+    },
+    {
+      "index": "42",
+      "answer": "Sắp được rồi!"
+    },
+    {
+      "index": "43",
+      "answer": "Thành công trong tầm tay!"
+    },
+    {
+      "index": "44",
+      "answer": "Rất nên!"
+    },
+    {
+      "index": "45",
+      "answer": "Không, đừng, đừng làm gì cả!"
+    },
+    {
+      "index": "46",
+      "answer": "Sẽ có khó khăn trước mắt, nhưng sẽ vượt qua được."
+    },
+    {
+      "index": "47",
+      "answer": "Không đi đến đâu."
+    },
+    {
+      "index": "48",
+      "answer": "Tin vào bạn nhé!"
+    },
+    {
+      "index": "49",
+      "answer": "Có khả năng cao là không."
+    },
+    {
+      "index": "50",
+      "answer": "Trong 7 tỉ khả năng, thì có 1 khả năng là đúng. Chính là cái này!"
+    }
+  ]
 }
