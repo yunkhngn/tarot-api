@@ -13,12 +13,16 @@ const database = JSON.parse(data)
 const ans = fs.readFileSync(ansPath)
 const answer = JSON.parse(ans)
 
+// Trả về answer bất kì
 app.get('/api/answer', (req, res) => {
   res.set('title', 'Answer')
   //get random answer
   const randomAnswer = answer.ans.sort(() => 0.5 - Math.random()).slice(0, 1)
   res.json(randomAnswer)
 })
+
+
+//Tarot
 
 app.get('/api', (req, res) => {
   const response = { status: "Successfully deploying API" };
