@@ -1,10 +1,12 @@
 # Tarot API 🔮
 
-> Project is under development, currently working right now!
+> Currently working right now!
 
-Tarot API provides information parsed from AE Waite's The Pictorial Key to the Tarot. This was created using ExpressJS and Nodejs.
+### Tarot API provides information parsed from AE Waite's The Pictorial Key to the Tarot. This was created using ExpressJS and Nodejs.
 
 *Author: @yunkhngn*
+
+<img src="https://media.allure.com/photos/60fed2b43a2765b3b97ee23c/16:9/w_2560%2Cc_limit/wheel%2520of%2520fortune%2520tarot%2520card.jpg" style="border-radius:5px"/>
 
 ## Quick start
 
@@ -71,3 +73,15 @@ yarn add nodemon
 
 nodemon index.js
 ```
+
+## License & contributions
+
+Contributions to Repository are welcome! To contribute, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch for your feature or fix
+3. Make changes and commit them to your branch
+4. Submit a pull request to the main repository.
+
+Tarot API's Repository is licensed under the GNU License. See LICENSE for more information.
+
