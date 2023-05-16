@@ -23,12 +23,13 @@ fetch("https://tarotapi.vercel.app/api/")
 
 ## Documentation
 
-| GET path                      | Result                                  | Params                                                                                                          |
-| :---------------------------- | --------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| `/api/` or `/api/cards` | return all cards                        |                                                                                                                 |
-| `/api/cards/:name`   | return card with specified `name` | `'/the-magician'`,`'/the-fool'`... |
-| `/api/cards/:name/:search/`        | search fields of one cards                        | `/the-magician/desc`                                                              |
-| `/api/random`        | get 3 random card                     |                                                                                  |
+| GET path | Result| Params|
+| :------------ | ---------- | :----------- |
+| `/api/` or `/api/cards` | return all cards| |
+| `/api/cards/:name` | return card with specified `name` | `'/the-magician'`,`'/the-fool'`... |
+| `/api/cards/:name/:search/`| search fields of one cards|`/the-magician/desc`|
+| `/api/random`| get 3 random card| |
+| `/api/answer`| get random advices or answer for specific questions|  |
 
 **JSON format:**
 ```json
@@ -63,4 +64,10 @@ yarn install
 #or npm install
 
 node index.js
+```
+3. Install nodemon (optional for hot reload)
+```sh
+yarn add nodemon
+
+nodemon index.js
 ```
