@@ -53,7 +53,7 @@ fetch("https://tarotapi.vercel.app/api/")
 1. Clone this repository and install dependencies locally.
 
 ```sh
-git clone https://github.com/ekelen/tarot-api.git
+git clone https://github.com/yunkhngn/tarot-api.git
 ```
 
 2. Then
